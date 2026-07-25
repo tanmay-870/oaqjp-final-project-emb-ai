@@ -1,0 +1,5 @@
+theia@theiadocker-u2k24cs1m242:/home/project/final_proj
+ect/oaqjp-final-project-emb-ai$ python3 test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.643s
